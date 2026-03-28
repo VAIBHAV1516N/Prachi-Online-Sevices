@@ -1,4 +1,4 @@
-# 🏛️ PRAchi Online Services — CSC Management Web App
+# 🏛️ Prachi Online Services — CSC Management Web App
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for managing a Common Service Center (CSC). Customers can browse services and submit requests online; admins manage everything from a secure dashboard.
 
@@ -222,4 +222,4 @@ Set environment variable: `REACT_APP_API_URL=https://your-backend.render.com/api
 
 ---
 
-*Built for PRAchi Online Services, Jalgaon, Maharashtra 🇮🇳*
+*Built for Prachi Online Services, Jalgaon, Maharashtra 🇮🇳*
