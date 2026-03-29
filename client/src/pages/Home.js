@@ -107,7 +107,7 @@ const Home = () => {
             <span className="hero-highlight">Your Doorstep</span>
           </h1>
           <p>
-            PRAchi Online Services brings all government & digital services to
+            Prachi Online Services brings all government & digital services to
             you — fast, affordable, and hassle-free.
           </p>
           <div className="hero-actions">

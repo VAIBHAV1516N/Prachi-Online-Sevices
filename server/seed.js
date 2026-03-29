@@ -34,7 +34,7 @@ const serviceSchema = new mongoose.Schema(
 const Service = mongoose.model("Service", serviceSchema);
 
 // ── Seed data ────────────────────────────────────────────────────────────────
-const ADMIN = { username: "Prachi7264", password: "Prachi@1305" };
+const ADMIN = { username: "barelaakash254@gmail.com", password: "Prachi@1305" };
 
 const SERVICES = [
   {

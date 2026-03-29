@@ -12,6 +12,7 @@ import Navbar from "./components/Navbar";
 import { AuthProvider, useAuth } from "./context/AuthContext";
 
 import AdminLayout from "./components/AdminLayout";
+import Chatbot from "./components/Chatbot";
 import AdminDashboard from "./pages/AdminDashboard";
 import AdminGallery from "./pages/AdminGallery";
 import AdminLogin from "./pages/AdminLogin";
@@ -41,6 +42,7 @@ function App() {
                 <Navbar />
                 <Home />
                 <Footer />
+                <Chatbot />
               </>
             }
           />
@@ -51,6 +53,7 @@ function App() {
                 <Navbar />
                 <Services />
                 <Footer />
+                <Chatbot />
               </>
             }
           />
@@ -61,6 +64,7 @@ function App() {
                 <Navbar />
                 <RequestForm />
                 <Footer />
+                <Chatbot />
               </>
             }
           />
@@ -71,6 +75,7 @@ function App() {
                 <Navbar />
                 <Contact />
                 <Footer />
+                <Chatbot />
               </>
             }
           />
