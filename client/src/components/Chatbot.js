@@ -161,7 +161,7 @@ function getBotResponse(input) {
     msg === "location"
   ) {
     return {
-      text: "📍 **Humare Office ki Details:**\n\n🏛️ PRAchi Online Services\n📍 Jalgaon, Maharashtra\n\n🕐 **Timings:**\nSomvar – Shanivar: 9:00 AM – 6:00 PM\nRavivar: Band\n\n📞 +91 98765 43210\n✉️ prachi.csc@email.com",
+      text: "📍 **Humare Office ki Details:**\n\n🏛️ Prachi Online Services\n📍 AT.Ghodgaon TAL.Chopda DIST.Jalgaon, Maharashtra\n\n🕐 **Timings:**\nSomvar – Shanivar: 9:00 AM – 6:00 PM\nRavivar: Band\n\n📞 +91 89566-47264\n✉️ barelaakash254@gmail.com",
       quickReplies: [
         { label: "📞 Call Karo", action: "contact" },
         { label: "📝 Request Karo", action: "apply" },
@@ -268,7 +268,7 @@ const Chatbot = () => {
       const welcome = {
         id: Date.now(),
         sender: "bot",
-        text: "🙏 Namaste! Main **PRAchi Assistant** hun.\n\nAapki kaise madad kar sakta hun?",
+        text: "🙏 Namaste! Main **Prachi CSC Assistant** hun.\n\nAapki kaise madad kar sakta hun?",
         quickReplies: QUICK_REPLIES_HOME,
         time: new Date(),
       };
