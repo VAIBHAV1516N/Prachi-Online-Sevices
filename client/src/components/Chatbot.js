@@ -380,7 +380,7 @@ const Chatbot = () => {
           <div className="chatbot-header">
             <div className="chatbot-avatar">🤖</div>
             <div className="chatbot-header-info">
-              <div className="chatbot-name">PRAchi Assistant</div>
+              <div className="chatbot-name">Prachi CSC Assistant</div>
               <div className="chatbot-status">
                 <span className="online-dot"></span> Online • Always here to
                 help
