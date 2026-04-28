@@ -67,7 +67,7 @@ csc-mern-project/
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VAIBHAV1516N/Prachi-Online-Sevices.git
 cd csc-mern-project
 npm run install-all
 ```
